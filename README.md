@@ -1,7 +1,7 @@
 # Implementation of Mips Single-Cycle Processor using Verilog
 
 ## Summary
-### Control and Datapath implemented support R Type(add,sub,or,slt), lw, sw, beq, bne, addi, j and ori instructions.
+Control and Datapath implemented support R Type(add,sub,or,slt), lw, sw, beq, bne, addi, j and ori instructions.
 
 ## Contents
 - ALU.v contains code for the alu module
